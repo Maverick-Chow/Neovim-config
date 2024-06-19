@@ -6,5 +6,5 @@ This is my personal neovim configurations, it is used mainly for c and Haskell, 
 
 To install, paste following command into the terminal: 
 ```
-git clone https://github.com/Maverick-Chow/Neovim-config ~/.config/nvim
+git clone git@github.com:Maverick-Chow/Neovim-config.git ~/.config/nvim
 ```
